@@ -4,7 +4,7 @@
 	src: 
 		local('System Glitch'),
 		local('SystemGlitch'),
-		url('fonts/lovely_font.otf') 
+		url('/Fonts/SystemGlitch-Regular.otf') 
 		format('opentype');
 }
 
