@@ -1,7 +1,15 @@
-
+@font-face {
+	font-family: 'systemglitch';
+	src: url('/Fonts/SystemGlitch-Regular.otf'); 
+	src: 
+		local('System Glitch'),
+		local('SystemGlitch'),
+		url('fonts/lovely_font.otf') 
+		format('opentype');
+}
 
 body{
     background-color: black;
     color: greenyellow;
-    font-size: larger;
+    font-family: systemglitch;
 }
