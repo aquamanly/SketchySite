@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'systemglitch';
-	src: url('/Fonts/SystemGlitch-Regular.otf'); 
+	src: url('../Fonts/SystemGlitch-Regular.otf'); 
 	src: 
 		local('System Glitch'),
 		local('SystemGlitch'),
-		url('/Fonts/SystemGlitch-Regular.otf') 
+		url('../Fonts/SystemGlitch-Regular.otf') 
 		format('opentype');
 }
 
@@ -13,7 +13,7 @@ body{
     color: black;
     font-family: 'systemglitch', sans-serif;
     font-size: xx-large;
-    background-image: url("/whyareyouHere.jpg");
+    background-image: url("../whyareyouHere.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
